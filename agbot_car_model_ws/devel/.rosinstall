@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/agbot/agbot_car_model_ws/devel/setup.sh

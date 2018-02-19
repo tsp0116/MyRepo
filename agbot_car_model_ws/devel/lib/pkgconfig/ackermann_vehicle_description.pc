@@ -1,0 +1,8 @@
+prefix=/home/agbot/agbot_car_model_ws/devel
+
+Name: ackermann_vehicle_description
+Description: Description of ackermann_vehicle_description
+Version: 0.1.3
+Cflags: 
+Libs: -L/home/agbot/agbot_car_model_ws/devel/lib 
+Requires: 

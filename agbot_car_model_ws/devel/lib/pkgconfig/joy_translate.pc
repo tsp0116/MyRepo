@@ -1,0 +1,8 @@
+prefix=/home/agbot/agbot_car_model_ws/devel
+
+Name: joy_translate
+Description: Description of joy_translate
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/agbot/agbot_car_model_ws/devel/lib 
+Requires: 
